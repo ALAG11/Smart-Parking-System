@@ -1,4 +1,3 @@
 # Smart-Parking-System
 
-This is my Bharat Intern Internet of Things (IoT) Internship Task - 1 of making a Smart Parking System. It is made using Arduino Uno microcontroller board and Arduino IDE and other components used are listed in "Components Used.txt" file listed above.
- 
+Programmed an automated Smart Parking System utilizing Arduino Uno and ultrasonic sensors.  Engineered a real-time parking availability display with LEDs, guiding drivers to vacant parking spots efficiently. * Implemented a sensor-based solution to address parking congestion, optimizing parking space utilization. * Programmed the system to detect vehicle presence accurately, enhancing user experience by providing timely parking information.
