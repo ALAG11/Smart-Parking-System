@@ -29,14 +29,12 @@ Welcome to the **Smart Parking System**! This project leverages the power of Ard
     git clone https://github.com/ALAG11/Smart-Parking-System.git
     ```
 2. **Upload the Code**: Open the provided `.ino` file in the Arduino IDE and upload it to your Arduino Uno.
-3. **Assemble the Hardware**: Follow the wiring diagram to connect your sensors and LEDs.
+3. **Assemble the Hardware**: Assemble all the hardware components as required according to the code.
 
 ## 🤝 Contributing
 
 We welcome contributions! Please fork the repository and submit pull requests.
 
-## 📄 License
+## 🌟 Show Your Support
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-**Happy Parking! 🚗🅿️**
+Give a ⭐️ if you like this project and find it helpful!
